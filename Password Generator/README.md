@@ -1,3 +1,15 @@
+**Challanges Faced** :
+
+-Creating a code that works similar to the sorce code.
+
+-importing the nessesory modules
+
+-setting up required jdk
+
+-Generating password and encrypting it.
+
+-controlling loops
+
 
 
 ### Overview
